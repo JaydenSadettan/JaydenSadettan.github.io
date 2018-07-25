@@ -392,6 +392,7 @@ input, select, textarea {
 		}
 
 		.row > .col-12 {
+		    display: block;
 			margin-left: auto;
     		margin-right: auto;
 			width: 100%;
