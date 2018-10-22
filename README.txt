@@ -1,7 +1,9 @@
 
 HI There! 
 
-This is my personal website used for displaying my projects and getting ahold of me. 
+This is my personal website used for displaying my projects and getting ahold of me.
+
+All credit to the source of the HTML5.
 
 I used HTML5 UP to create this. More information below.
 ____________________________________________________________________
